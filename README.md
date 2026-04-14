@@ -13,6 +13,18 @@ tranining: covid.test.csv
 public testing: covid.train.csv
 上傳 kaggle 格式範例：sampleSubmission.csv
 
+### 最佳結果
+![model architecture](./covid_prediction/model.drawio.png)
+
+### 實驗過程
+https://icob-bioinfo-jordan.notion.site/HW1-2-COVID-342c61e0591980b4aec0ea5c2c793771?source=copy_link
+
+
+
+
+
+---
+
 ## HOUSE PRICES PREDICTION
 
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview
