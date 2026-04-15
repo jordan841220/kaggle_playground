@@ -9,9 +9,9 @@ https://www.kaggle.com/competitions/ml2021spring-hw1/overview
 - 有許多人的各種 features 包含 day1, day2, day3 的 COVID percentage
 - 給定 day1, day2 的各種 features，訓練一個 model 預測 day3
 
-tranining: covid.test.csv
-public testing: covid.train.csv
-上傳 kaggle 格式範例：sampleSubmission.csv
+tranining: covid.test.csv <br>
+public testing: covid.train.csv <br>
+上傳 kaggle 格式範例：sampleSubmission.csv <br>
 
 ### 最佳結果
 ![model architecture](./covid_prediction/model.drawio.png)
